@@ -1,0 +1,38 @@
+h1 {
+  padding-top: 60px;
+  font-size: 48px;
+}
+p {
+  font-size: 14px;
+}
+button {
+  margin-top: 20px;
+}
+.quote {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.intro {
+  height: 380px;
+  width: 100%;
+  margin-top: 80px;
+  background-image: url("../../assets/fotos/mesa-trabalho.jpg");
+  text-align: center;
+  color: white;
+  background-position: 0 80%;
+}
+.stick {
+  background: white;
+  width: 60px;
+  height: 3px;
+}
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 287px;
+}
+.author {
+  margin-top: 20px;
+}

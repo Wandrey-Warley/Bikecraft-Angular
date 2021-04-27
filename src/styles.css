@@ -26,4 +26,12 @@ button {
   border: solid 4px #FEC63E;
   background: none;
   font-size: 14px;
+	transition: .5s;
+	text-transform: uppercase;
+}
+button:hover {
+	background: black;
+	cursor: pointer;
+	color: white;
+	transition: .5s;
 }
